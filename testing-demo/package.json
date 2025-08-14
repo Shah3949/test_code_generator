@@ -1,0 +1,23 @@
+{
+  "name": "testing-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demoFile.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "devDependencies": {
+    "jest": "^30.0.5",
+    "vitest": "^3.2.4"
+  },
+  "dependencies": {
+    "chai": "^4.5.0"
+  }
+}
